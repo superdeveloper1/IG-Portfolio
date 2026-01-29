@@ -1,0 +1,25 @@
+ISAIAS GERONIMO
+Frontend Developer
+Rockaway Park, NY • isaiasgeronimo12@gmail.com • Portfolio: https://isaiasgeronimo.com
+
+SUMMARY
+Frontend Developer skilled in JavaScript, React, and responsive UI development. Experienced with component-based architecture, state management, async workflows, and Tailwind CSS. Focused on clean code, modern tooling, and polished user interfaces. Strong understanding of UI/UX principles, accessibility, and performance optimization.
+
+PROJECTS
+LuxeMarket (Project Vanta)
+React • Vite • Tailwind CSS • GitHub Pages
+A modern, responsive e-commerce storefront featuring reusable components, state management patterns, async workflows, and a stable GitHub Pages deployment. Built with a focus on clean UI architecture, performance, and maintainability. Key Contributions: Developed responsive layouts and component-based UI architecture, implemented state management and async workflows, built reusable UI components with Tailwind CSS, managed deployment and build configuration, ensured accessibility, performance, and mobile-first design.
+
+EXPERIENCE
+Frontend Developer — LuxeMarket Project
+Built and maintained the LuxeMarket frontend using React, Vite, and Tailwind CSS. Implemented responsive layouts, UI state logic, async workflows, and component structure. Managed deployment, build configuration, and project organization.
+Junior Web Developer — Generation USA (2019–2020)
+Worked on frontend tasks, responsive layouts, HTML/CSS structures, and JavaScript interactions while practicing collaborative workflows and modern development practices.
+
+SKILLS
+Languages & Tools: JavaScript (ES6+), HTML5, CSS3, React, Vite, Tailwind CSS, Git, GitHub, GitHub Pages
+Frontend Skills: Component-based architecture, state management, responsive design, async/await, DOM manipulation, REST APIs, JSON
+UI/UX & Performance: Accessibility, layout systems, mobile-first design, performance optimization, clean UI patterns
+
+EDUCATION
+AAS, Computer Science — Monroe College, 2020

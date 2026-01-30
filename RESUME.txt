@@ -1,25 +1,100 @@
-ISAIAS GERONIMO
-Frontend Developer
-Rockaway Park, NY • isaiasgeronimo12@gmail.com • Portfolio: https://isaiasgeronimo.com
+═══════════════════════════════════════════════════════════════════════════════
+                              ISAIAS GERONIMO
+                            Frontend Developer
+═══════════════════════════════════════════════════════════════════════════════
 
-SUMMARY
-Frontend Developer skilled in JavaScript, React, and responsive UI development. Experienced with component-based architecture, state management, async workflows, and Tailwind CSS. Focused on clean code, modern tooling, and polished user interfaces. Strong understanding of UI/UX principles, accessibility, and performance optimization.
+📍 Rockaway Park, NY
+📧 isaiasgeronimo12@gmail.com
+🌐 Portfolio: https://superdeveloper1.github.io/IG-Portfolio/
+💼 GitHub: https://github.com/superdeveloper1
 
-PROJECTS
-LuxeMarket (Project Vanta)
+───────────────────────────────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+───────────────────────────────────────────────────────────────────────────────
+
+Frontend Developer specializing in JavaScript, React, and modern UI development.
+Proven expertise in building responsive, accessible web applications with clean
+architecture and optimal performance. Strong focus on component-based design,
+state management, and delivering polished user experiences.
+
+───────────────────────────────────────────────────────────────────────────────
+TECHNICAL SKILLS
+───────────────────────────────────────────────────────────────────────────────
+
+Languages & Frameworks
+  • JavaScript (ES6+), HTML5, CSS3
+  • React 18, Vite, Tailwind CSS
+
+Development Tools
+  • Git, GitHub, GitHub Pages, GitHub Actions
+  • npm, Vite Build Tool, ESLint
+
+Frontend Expertise
+  • Component-based architecture & reusable UI patterns
+  • State management & async workflows (async/await, Promises)
+  • Responsive design & mobile-first development
+  • REST API integration & JSON data handling
+  • DOM manipulation & event handling
+
+UI/UX & Best Practices
+  • Accessibility (WCAG) & semantic HTML
+  • Performance optimization & code splitting
+  • Cross-browser compatibility
+  • Modern layout systems (Flexbox, Grid)
+
+───────────────────────────────────────────────────────────────────────────────
+FEATURED PROJECTS
+───────────────────────────────────────────────────────────────────────────────
+
+LuxeMarket E-Commerce Platform
+React • Vite • Tailwind CSS • LocalStorage • GitHub Pages
+🔗 Live: https://superdeveloper1.github.io/luxemarket/
+🔗 Code: https://github.com/superdeveloper1/luxemarket
+
+High-performance e-commerce platform featuring admin dashboard, product
+management, color variants, daily deals system, and complete shopping cart.
+
+Key Achievements:
+  • Architected component-based UI with 20+ reusable React components
+  • Implemented admin dashboard with full CRUD operations for products
+  • Built color variant system with visual picker and inventory management
+  • Developed shopping cart with persistent state using LocalStorage
+  • Created responsive layouts optimized for mobile, tablet, and desktop
+  • Configured CI/CD pipeline with GitHub Actions for automated deployment
+
+Portfolio Showcase
 React • Vite • Tailwind CSS • GitHub Pages
-A modern, responsive e-commerce storefront featuring reusable components, state management patterns, async workflows, and a stable GitHub Pages deployment. Built with a focus on clean UI architecture, performance, and maintainability. Key Contributions: Developed responsive layouts and component-based UI architecture, implemented state management and async workflows, built reusable UI components with Tailwind CSS, managed deployment and build configuration, ensured accessibility, performance, and mobile-first design.
+🔗 Live: https://superdeveloper1.github.io/IG-Portfolio/
 
-EXPERIENCE
-Frontend Developer — LuxeMarket Project
-Built and maintained the LuxeMarket frontend using React, Vite, and Tailwind CSS. Implemented responsive layouts, UI state logic, async workflows, and component structure. Managed deployment, build configuration, and project organization.
-Junior Web Developer — Generation USA (2019–2020)
-Worked on frontend tasks, responsive layouts, HTML/CSS structures, and JavaScript interactions while practicing collaborative workflows and modern development practices.
+Modern portfolio website showcasing projects, skills, and professional experience
+with smooth animations, responsive design, and optimized performance.
 
-SKILLS
-Languages & Tools: JavaScript (ES6+), HTML5, CSS3, React, Vite, Tailwind CSS, Git, GitHub, GitHub Pages
-Frontend Skills: Component-based architecture, state management, responsive design, async/await, DOM manipulation, REST APIs, JSON
-UI/UX & Performance: Accessibility, layout systems, mobile-first design, performance optimization, clean UI patterns
+───────────────────────────────────────────────────────────────────────────────
+PROFESSIONAL EXPERIENCE
+───────────────────────────────────────────────────────────────────────────────
 
+Frontend Developer — LuxeMarket Project                          2024 - Present
+  • Developed full-featured e-commerce platform using React 18 and Vite
+  • Implemented state management patterns for cart, products, and user data
+  • Built admin dashboard with product management and variant configuration
+  • Designed and developed responsive UI components with Tailwind CSS
+  • Configured build optimization and deployment pipeline
+  • Ensured cross-browser compatibility and mobile responsiveness
+
+Junior Web Developer — Generation USA                            2019 - 2020
+  • Collaborated on frontend development tasks using HTML, CSS, and JavaScript
+  • Built responsive layouts and interactive UI components
+  • Participated in code reviews and agile development workflows
+  • Implemented accessibility best practices and semantic HTML
+  • Worked with REST APIs and asynchronous JavaScript
+
+───────────────────────────────────────────────────────────────────────────────
 EDUCATION
-AAS, Computer Science — Monroe College, 2020
+───────────────────────────────────────────────────────────────────────────────
+
+Associate of Applied Science (AAS), Computer Science
+Monroe College                                                             2020
+
+───────────────────────────────────────────────────────────────────────────────
+
+References available upon request

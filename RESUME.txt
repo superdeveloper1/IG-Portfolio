@@ -1,100 +1,27 @@
-═══════════════════════════════════════════════════════════════════════════════
-                              ISAIAS GERONIMO
-                            Frontend Developer
-═══════════════════════════════════════════════════════════════════════════════
+ISAIAS GERONIMO
+Frontend Developer
+Rockaway Park, NY | isaiasgeronimo12@gmail.com
+Portfolio: https://superdeveloper1.github.io/IG-Portfolio/ | GitHub: https://github.com/superdeveloper1
 
-📍 Rockaway Park, NY
-📧 isaiasgeronimo12@gmail.com
-🌐 Portfolio: https://superdeveloper1.github.io/IG-Portfolio/
-💼 GitHub: https://github.com/superdeveloper1
+SUMMARY
+Frontend Developer specializing in JavaScript, React, and modern UI development. Expertise in building responsive, accessible web applications with clean architecture.
 
-───────────────────────────────────────────────────────────────────────────────
-PROFESSIONAL SUMMARY
-───────────────────────────────────────────────────────────────────────────────
-
-Frontend Developer specializing in JavaScript, React, and modern UI development.
-Proven expertise in building responsive, accessible web applications with clean
-architecture and optimal performance. Strong focus on component-based design,
-state management, and delivering polished user experiences.
-
-───────────────────────────────────────────────────────────────────────────────
 TECHNICAL SKILLS
-───────────────────────────────────────────────────────────────────────────────
+JavaScript (ES6+), React 18, Vite, Tailwind CSS, HTML5, CSS3, Git, GitHub, REST APIs, Responsive Design, Accessibility
 
-Languages & Frameworks
-  • JavaScript (ES6+), HTML5, CSS3
-  • React 18, Vite, Tailwind CSS
+PROJECTS
 
-Development Tools
-  • Git, GitHub, GitHub Pages, GitHub Actions
-  • npm, Vite Build Tool, ESLint
+LuxeMarket E-Commerce Platform | React, Vite, Tailwind CSS
+GitHub: https://github.com/superdeveloper1/luxemarket
+E-commerce platform with admin dashboard, product management, color variants, and shopping cart. Built with 20+ reusable components and CI/CD pipeline.
 
-Frontend Expertise
-  • Component-based architecture & reusable UI patterns
-  • State management & async workflows (async/await, Promises)
-  • Responsive design & mobile-first development
-  • REST API integration & JSON data handling
-  • DOM manipulation & event handling
+EXPERIENCE
 
-UI/UX & Best Practices
-  • Accessibility (WCAG) & semantic HTML
-  • Performance optimization & code splitting
-  • Cross-browser compatibility
-  • Modern layout systems (Flexbox, Grid)
+Frontend Developer — LuxeMarket Project (2024 - Present)
+Developed full-featured e-commerce platform using React 18 and Vite. Built admin dashboard, shopping cart, and responsive UI components.
 
-───────────────────────────────────────────────────────────────────────────────
-FEATURED PROJECTS
-───────────────────────────────────────────────────────────────────────────────
+Junior Web Developer — Generation USA (2019 - 2020)
+Frontend development with HTML, CSS, and JavaScript. Built responsive layouts and implemented accessibility best practices.
 
-LuxeMarket E-Commerce Platform
-React • Vite • Tailwind CSS • LocalStorage • GitHub Pages
-🔗 Live: https://superdeveloper1.github.io/luxemarket/
-🔗 Code: https://github.com/superdeveloper1/luxemarket
-
-High-performance e-commerce platform featuring admin dashboard, product
-management, color variants, daily deals system, and complete shopping cart.
-
-Key Achievements:
-  • Architected component-based UI with 20+ reusable React components
-  • Implemented admin dashboard with full CRUD operations for products
-  • Built color variant system with visual picker and inventory management
-  • Developed shopping cart with persistent state using LocalStorage
-  • Created responsive layouts optimized for mobile, tablet, and desktop
-  • Configured CI/CD pipeline with GitHub Actions for automated deployment
-
-Portfolio Showcase
-React • Vite • Tailwind CSS • GitHub Pages
-🔗 Live: https://superdeveloper1.github.io/IG-Portfolio/
-
-Modern portfolio website showcasing projects, skills, and professional experience
-with smooth animations, responsive design, and optimized performance.
-
-───────────────────────────────────────────────────────────────────────────────
-PROFESSIONAL EXPERIENCE
-───────────────────────────────────────────────────────────────────────────────
-
-Frontend Developer — LuxeMarket Project                          2024 - Present
-  • Developed full-featured e-commerce platform using React 18 and Vite
-  • Implemented state management patterns for cart, products, and user data
-  • Built admin dashboard with product management and variant configuration
-  • Designed and developed responsive UI components with Tailwind CSS
-  • Configured build optimization and deployment pipeline
-  • Ensured cross-browser compatibility and mobile responsiveness
-
-Junior Web Developer — Generation USA                            2019 - 2020
-  • Collaborated on frontend development tasks using HTML, CSS, and JavaScript
-  • Built responsive layouts and interactive UI components
-  • Participated in code reviews and agile development workflows
-  • Implemented accessibility best practices and semantic HTML
-  • Worked with REST APIs and asynchronous JavaScript
-
-───────────────────────────────────────────────────────────────────────────────
 EDUCATION
-───────────────────────────────────────────────────────────────────────────────
-
-Associate of Applied Science (AAS), Computer Science
-Monroe College                                                             2020
-
-───────────────────────────────────────────────────────────────────────────────
-
-References available upon request
+AAS, Computer Science — Monroe College, 2020

@@ -53,7 +53,7 @@ export default function App() {
                 Luxury Retail.
               </h1>
               <p className="text-lg text-slate-300 mb-8 leading-relaxed">
-                LuxeMarket is a high-performance e-commerce platform built with React 18, Vite, and Tailwind CSS. Features include admin dashboard with product management, color variants with visual picker, daily deals system, home page customization, and complete shopping cart with checkout flow.
+                LuxeMarket is a high-performance e-commerce platform built with React 18, Vite, and Tailwind CSS. Recently migrated from local storage to a robust **Firebase backend**, it features real-time synchronization, cloud persistence, and a conflict-free UI architecture using **React Portals**.
               </p>
               <div className="flex gap-4 flex-wrap">
                 <a
@@ -64,7 +64,7 @@ export default function App() {
                 >
                   Launch Storefront <span>↗</span>
                 </a>
-                <a 
+                <a
                   href="https://superdeveloper1.github.io/luxemarket/admin"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -72,7 +72,7 @@ export default function App() {
                 >
                   Admin Panel <span>⚙</span>
                 </a>
-                <a 
+                <a
                   href="https://github.com/superdeveloper1/luxemarket"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -98,9 +98,9 @@ export default function App() {
                     <span className="text-xs text-slate-400 ml-2">LuxeMarket Store</span>
                   </div>
                   <div className="bg-slate-800 p-4 h-56 flex items-center justify-center relative overflow-hidden">
-                    <img 
-                      src="https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=800&auto=format&fit=crop" 
-                      alt="E-commerce Store" 
+                    <img
+                      src="https://images.unsplash.com/photo-1557821552-17105176677c?q=80&w=800&auto=format&fit=crop"
+                      alt="E-commerce Store"
                       className="w-full h-full object-cover rounded"
                     />
                   </div>
@@ -115,8 +115,8 @@ export default function App() {
                     { img: 'https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=200&h=200&fit=crop', name: 'Glasses' }
                   ].map((item, i) => (
                     <div key={i} className="rounded-lg overflow-hidden border border-slate-600 hover:border-blue-400 transition h-24">
-                      <img 
-                        src={item.img} 
+                      <img
+                        src={item.img}
                         alt={item.name}
                         className="w-full h-full object-cover"
                       />
@@ -140,14 +140,14 @@ export default function App() {
           <div className="grid md:grid-cols-4 gap-6">
             {[
               { title: 'React 18', desc: 'Component Architecture', img: 'https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=400&h=400&fit=crop' },
-              { title: 'Vite', desc: 'Lightning-fast Build Tool', img: 'https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?q=80&w=400&h=400&fit=crop' },
-              { title: 'Tailwind CSS', desc: 'Modern Utility Styling', img: 'https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=400&h=400&fit=crop' },
-              { title: 'LocalStorage', desc: 'State Persistence', img: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=400&h=400&fit=crop' }
+              { title: 'Firebase', desc: 'Firestore Cloud Database', img: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=400&h=400&fit=crop' },
+              { title: 'React Portals', desc: 'Zero-Conflict UI Layering', img: 'https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=400&h=400&fit=crop' },
+              { title: 'Tailwind CSS', desc: 'Modern Utility Styling', img: 'https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=400&h=400&fit=crop' }
             ].map((tech, i) => (
               <div key={i} className="p-6 bg-slate-800/50 border border-slate-700 rounded-xl hover:border-blue-500 transition text-center overflow-hidden">
                 <div className="w-20 h-20 mx-auto mb-4 rounded-lg overflow-hidden bg-slate-700">
-                  <img 
-                    src={tech.img} 
+                  <img
+                    src={tech.img}
                     alt={tech.title}
                     className="w-full h-full object-cover"
                   />
@@ -166,12 +166,12 @@ export default function App() {
           <h2 className="text-4xl font-bold mb-12">Key Features</h2>
           <div className="grid md:grid-cols-3 gap-8">
             {[
-              { title: 'Product Management', desc: 'Admin dashboard for managing inventory and variants' },
-              { title: 'Color Variants', desc: 'Visual picker for product color selection' },
-              { title: 'Daily Deals', desc: 'Promotional system for featured products' },
-              { title: 'Shopping Cart', desc: 'Full cart management with checkout flow' },
-              { title: 'Responsive Design', desc: 'Perfect on desktop, tablet, and mobile' },
-              { title: 'Fast Performance', desc: 'Optimized with Vite for lightning speed' }
+              { title: 'Cloud Backend', desc: 'Live Firebase Firestore database for global inventory' },
+              { title: 'React Portals', desc: 'Advanced DOM rendering for conflict-free modal overlays' },
+              { title: 'Admin Dashboard', desc: 'Comprehensive panel for real-time inventory management' },
+              { title: 'Color Variants', desc: 'Visual variant picker with integrated pricing logic' },
+              { title: 'Daily Deals', desc: 'Dynamic promotional system for featured collections' },
+              { title: 'Responsive Design', desc: 'Optimized experience across all device form factors' }
             ].map((f, i) => (
               <div key={i} className="p-6 bg-slate-800/50 border border-slate-700 rounded-lg hover:border-blue-500 transition">
                 <h3 className="font-semibold mb-2 text-lg">{f.title}</h3>
@@ -207,7 +207,7 @@ export default function App() {
             <div>
               <h2 className="text-4xl font-bold mb-6">About Me</h2>
               <p className="text-lg text-slate-300 mb-6 leading-relaxed">
-                I'm <strong>Isaias Geronimo</strong>, a Frontend Developer specialized in JavaScript, React, and responsive UI development. 
+                I'm <strong>Isaias Geronimo</strong>, a Frontend Developer specialized in JavaScript, React, and responsive UI development.
                 With a focus on clean code and polished user interfaces, I build modern web applications that prioritize performance and accessibility.
               </p>
               <div className="space-y-4">
